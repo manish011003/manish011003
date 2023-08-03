@@ -1,4 +1,5 @@
 # Hi there!!, Im Manish🙌 
+<img alt="GitHub" src="[https://github.githubassets.com/images/mona-loading-dark.gif](https://64cbd827d183001b09fcf516--friendly-fairy-4500e5.netlify.app/Inovate%20for%20good%20(1).gif)" width="200" height="200" align="center"/>
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
@@ -19,11 +20,6 @@
 <br>
 <br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="right"/>
 
-
-<br>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br><br>
 <br>
 <br>
