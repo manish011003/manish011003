@@ -1,5 +1,4 @@
 # Hi there!!, Im Manish🙌 
-<img alt="GitHub" src="[https://github.githubassets.com/images/mona-loading-dark.gif](https://64cbd827d183001b09fcf516--friendly-fairy-4500e5.netlify.app/Inovate%20for%20good%20(1).gif)" width="200" height="200" align="center"/>
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
@@ -18,9 +17,10 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
-<br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="right"/>
+<br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="center"/>
 
 <br><br>
+<img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif](https://64cbd827d183001b09fcf516--friendly-fairy-4500e5.netlify.app/Inovate%20for%20good%20(1).gif" width="200" height="200" align="right"/>
 <br>
 <br>
 ## Find me around the web 🌎
