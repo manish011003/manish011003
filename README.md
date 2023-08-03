@@ -1,11 +1,13 @@
 # Hi there!!, Im Manish🙌 
-![Inovate for good (1)](https://github.com/manish011003/manish011003/assets/121610109/662ae6ea-5211-491d-b0d1-1725ad043187)
 
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at m4n15hb@gmail.com! I'll try to respond as soon as I can.
-<br><br>
+<br>
+![Inovate for good (1)](https://github.com/manish011003/manish011003/assets/121610109/662ae6ea-5211-491d-b0d1-1725ad043187)
+<br>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
