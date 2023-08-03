@@ -1,4 +1,4 @@
-## Hi there!!, Im Manish🙌 
+# Hi there!!, Im Manish🙌 
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology, Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
@@ -34,7 +34,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <br>
 <br>
-# My Rigg👨🏻‍💻!!
+## My Rigg👨🏻‍💻!!
 <br>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
