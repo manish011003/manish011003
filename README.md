@@ -1,5 +1,5 @@
 # Hi there!!, Im Manish🙌 
-![Inovate for good (2) (1) (1)](https://github.com/manish011003/manish011003/assets/121610109/c19fec44-7cf1-4375-a84a-4962c436ccbd=250x100 )
+![Inovate for good (2) (1) (1)](https://github.com/manish011003/manish011003/assets/121610109/c19fec44-7cf1-4375-a84a-4962c436ccbd=100x50 )
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
@@ -22,7 +22,11 @@
 <br>
 <br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="right"/>
 <br> 
-
+## So...🤗
+i'm a web development enthusiast , in general love to create and work on open source projects.
+Currently 👉, I am working on developing a new open-source web application using ReactJS and NodeJS. I am excited to contribute to the developer community and bring new ideas to the table. When I am not coding, I enjoy A cup of coffee and listening to songs:)
+<br>
+<br>
 ## Find me around the web 🌎
 <br>
 
