@@ -1,4 +1,6 @@
 # Hi there!!, Im Manish🙌 
+![Inovate for good (1)](https://github.com/manish011003/manish011003/assets/121610109/662ae6ea-5211-491d-b0d1-1725ad043187)
+
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
@@ -20,8 +22,7 @@
 <br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="right"/>
 
 <br><br>
-<img alt="GitHub" src="https://github.com/manish011003/manish011003/blob/main/Inovate%20for%20good%20(1).gif" align="center"/>
-<br>
+
 <br>
 ## Find me around the web 🌎
 <br>
