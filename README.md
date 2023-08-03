@@ -20,7 +20,7 @@
 <br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="right"/>
 
 <br><br>
-<img src="https://64cbd827d183001b09fcf516--friendly-fairy-4500e5.netlify.app/Inovate%20for%20good%20(1).gif" align="center"/>
+<img src="https://github.com/manish011003/manish011003/blob/main/Inovate%20for%20good%20(1).gif" align="center"/>
 <br>
 <br>
 ## Find me around the web 🌎
