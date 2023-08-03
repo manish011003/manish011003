@@ -1,4 +1,8 @@
 # Hi there!!, Im Manish🙌 
+🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology, Agartala.\
+💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
+🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+✉️ &nbsp;You can shoot me an email at m4n15hb@gmail.com! I'll try to respond as soon as I can.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
