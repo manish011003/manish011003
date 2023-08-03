@@ -19,8 +19,6 @@
 <br><br>
 <br>
 <br>
-<br>
-<br>
 Know more about me!!
 <br>
 
