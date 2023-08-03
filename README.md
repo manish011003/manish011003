@@ -1,5 +1,4 @@
 # Hi there!!, Im Manish🙌 
-![Inovate for good (1)](https://github.com/manish011003/manish011003/assets/121610109/662ae6ea-5211-491d-b0d1-1725ad043187)
 ![Inovate for good (2) (1) (1)](https://github.com/manish011003/manish011003/assets/121610109/c19fec44-7cf1-4375-a84a-4962c436ccbd)
 
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
