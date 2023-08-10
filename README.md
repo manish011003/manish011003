@@ -25,6 +25,11 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish011003&layout=compact)
+
+
+<br>
 <br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="right"/>
 <br> 
 ## So...🤗
@@ -51,4 +56,3 @@ Currently 👉, I am working on developing a new open-source web application usi
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish011003&layout=compact)
