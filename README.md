@@ -51,3 +51,4 @@ Currently 👉, I am working on developing a new open-source web application usi
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish011003&layout=compact)
