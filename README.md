@@ -25,13 +25,10 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 <br>
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish011003&layout=compact)
-
-
-<br>
 <br><img alt="GitHub" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="200" height="200" align="right"/>
 <br> 
+
 ## So...🤗
 i'm a web development enthusiast , in general love to create and work on open source projects.<br>
 Currently 👉, I am working on developing a new open-source web application using ReactJS and NodeJS. I am excited to contribute to the developer community and bring new ideas to the table. When I am not coding, I enjoy A cup of coffee and listening to songs:)
