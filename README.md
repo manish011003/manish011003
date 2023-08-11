@@ -13,7 +13,7 @@
 👨🏻‍💻 &nbsp;You can shoot me an email at m4n15hb@gmail.com! I'll try to respond as soon as I can.\
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 <br>
 
