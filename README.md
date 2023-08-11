@@ -1,4 +1,6 @@
 # Hi there!! I'm Manish🙌 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=manish011003&label=Profile%20views&color=0e75b6&style=flat" alt="manish011003" /> </p>
+
 ![Inovate for good (2) (1) (1)](https://github.com/manish011003/manish011003/assets/121610109/c19fec44-7cf1-4375-a84a-4962c436ccbd=100x50 )
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
@@ -28,8 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish011003&layout=compact)
 <br>
 <br> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish011003&label=Profile%20views&color=0e75b6&style=flat" alt="manish011003" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish011003" alt="manish011003" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -62,3 +62,5 @@ Currently 👉, I am working on developing a new open-source web application usi
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
+
+
