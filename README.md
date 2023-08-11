@@ -30,7 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish011003&layout=compact)
 <br>
 <br> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish011003" alt="manish011003" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,6 +41,7 @@
 i'm a web development enthusiast , in general love to create and work on open source projects.<br>
 Currently 👉, I am working on developing a new open-source web application using ReactJS and NodeJS. I am excited to contribute to the developer community and bring new ideas to the table. When I am not coding, I enjoy A cup of coffee and listening to songs:)
 <br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish011003" alt="manish011003" /></a> </p>
 <br>
 ## Find me around the web 🌎
 <br>
