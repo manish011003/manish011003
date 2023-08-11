@@ -5,8 +5,6 @@
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌳 &nbsp;Love to be parts of Developer Communities and am the community founder of DECOY (STUDENTS SOCIETY FOR DEVELOPMENT CONSCIOUSNESS).\
-### ![DE__5_-removebg-preview](https://github.com/manish011003/manish011003/assets/121610109/df84f298-113a-4e54-a75f-ed4058d99343=120x120)
-![logo](https://github.com/manish011003/manish011003/assets/121610109/df84f298-113a-4e54-a75f-ed4058d99343)
 <img src="https://github.com/manish011003/manish011003/assets/121610109/df84f298-113a-4e54-a75f-ed4058d99343" width=20 hight=20)>
 
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
