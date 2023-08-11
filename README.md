@@ -5,9 +5,10 @@
 🎓 &nbsp;I'm currently studying Electronics and Communications Engineering at National Institute of Technology Agartala.\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring GPT-4.\
 🌳 &nbsp;Love to be parts of Developer Communities and am the community founder of DECOY (STUDENTS SOCIETY FOR DEVELOPMENT CONSCIOUSNESS).\
-![DE__5_-removebg-preview][(https://github.com/manish011003/manish011003/assets/121610109/df84f298-113a-4e54-a75f-ed4058d99343=120x120)
-![logo](./DE__5_-removebg-preview.png)=20x20]
-<img src="./DE__5_-removebg-preview.png" width=20 hight=20>
+![DE__5_-removebg-preview](https://github.com/manish011003/manish011003/assets/121610109/df84f298-113a-4e54-a75f-ed4058d99343=120x120)
+![logo](./DE__5_-removebg-preview.png)
+<img src="https://github.com/manish011003/manish011003/assets/121610109/df84f298-113a-4e54-a75f-ed4058d99343=120x120)
+![logo](./DE__5_-removebg-preview.png" width=20 hight=20>
 
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 👨🏻‍💻 &nbsp;You can shoot me an email at m4n15hb@gmail.com! I'll try to respond as soon as I can.\
