@@ -42,6 +42,7 @@ Currently 👉, I am working on developing a new open-source web application usi
 ## Trophies 🏆
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish011003" alt="manish011003" /></a> </p>
 <br>
+
 ## Find me around the web 🌎
 <br>
 
